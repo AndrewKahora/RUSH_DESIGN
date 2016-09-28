@@ -1,5 +1,6 @@
 html, body,
-.container,{
+.container,
+.cbp-fbscroller section{
     height: 100%;
 }
 
