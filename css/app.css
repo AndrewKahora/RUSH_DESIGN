@@ -5,6 +5,7 @@ html, body,
 }
 .logo{
     font-family: 'Exo', sans-serif;
+    color: #fff
 }
 .row{
     max-width: 100%;
