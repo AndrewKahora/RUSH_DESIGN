@@ -68,3 +68,7 @@ html, body,
 .about{
 
 }
+#About{
+    background-color: black;
+    color: aliceblue;
+}
