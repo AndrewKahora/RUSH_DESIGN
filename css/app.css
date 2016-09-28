@@ -20,12 +20,11 @@
 #nav a{
     font-size:21px;
     font-weight:300;
-    float:left;
     color:#999;
     text-decoration: none;
     border:1px solid #ccc;
     cursor: pointer;
-    background:transparent url(../images/overlay.png) repeat-x center left;
+    background:transparent;
     line-height:56px;
     list-style-image: url(../images/nav%20background.jpg);
 }
