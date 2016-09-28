@@ -3,7 +3,9 @@ html, body,
 .cbp-fbscroller section{
     height: 100%;
 }
-
+.row{
+    display: 100%;
+}
 #nav{
     height:75px;
     border-bottom:1px solid #ddd;
