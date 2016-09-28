@@ -76,3 +76,9 @@ html, body,
     color: aliceblue;
     text-align: center;
 }
+.about{
+    font-size: 34px;
+}
+.aboutpar{
+    font-size: 21px;
+}
