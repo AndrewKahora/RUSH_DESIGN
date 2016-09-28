@@ -20,6 +20,7 @@ html, body,
     background:#fff url(../images/nav background.jpg) repeat-x center left;
     z-index:999999;
     width: inherit;
+    background-color: black;
 }
 #nav ul{
 /*    height:25px;*/
