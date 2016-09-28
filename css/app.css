@@ -3,6 +3,9 @@ html, body,
 .cbp-fbscroller section{
     height: 100%;
 }
+.logo{
+    font-family: 'Exo', sans-serif;
+}
 .row{
     max-width: 100%;
 }
