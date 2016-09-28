@@ -34,3 +34,23 @@
     background:#D9D9DA;
     color: #fff;
 }
+/* background-attachment does the trick */
+.cbp-fbscroller section {
+	position: relative;
+	background-position: top center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+#fbsection1 {
+	background-image: url(../images/car1.jpg);
+}
+
+#fbsection2 {
+	background-image: url(../images/car2.jpg);
+}
+
+#fbsection3 {
+	background-image: url(../images/car3.jpg);
+}
