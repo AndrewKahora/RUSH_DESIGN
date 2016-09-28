@@ -8,3 +8,14 @@
     background:#fff url(../images/nav background.jpg) repeat-x center left;
     z-index:999999;
 }
+#nav ul{
+    height:25px;
+    list-style:none;
+    margin:6px auto 0px auto;
+    width:600px;
+}
+#nav ul li{
+    display:inline;
+    float:left;
+    margin:0px 2px;
+}
