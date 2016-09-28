@@ -22,14 +22,13 @@ html, body,
     width: inherit;
 }
 #nav ul{
-
     list-style:none;
 
 }
 #nav ul li{
     display:inline;
     margin:8px 8px;
-    word-spacing:inherit;
+    word-spacing: normal;
 }
 #nav a{
     font-size:21px;
