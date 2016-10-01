@@ -55,6 +55,10 @@ body{
 	background-size: cover;
 	background-attachment: fixed;
 }
+.fbsection1{
+    background-attachment: fixed;
+    background-size: cover;
+}
 
 #section1 {
 	background-image: url(../images/car1.jpg);
