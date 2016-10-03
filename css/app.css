@@ -113,10 +113,16 @@ h2{
     font-size: 24px;
     text-align: center;
 }
-p{
+{
     text-align: center;
 }
-.forming > p {
+.forming>label {
     color: aliceblue;
     font-size: 18px;
+}
+label{
+    color: aliceblue;
+}
+#submit{
+    color: black;
 }
