@@ -102,5 +102,9 @@ body{
 }
 #Interior{
     width: 100%;
+    color: aliceblue;
 
+}
+i{
+    font-size: 32px;
 }
