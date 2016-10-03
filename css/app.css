@@ -111,4 +111,12 @@ i{
 h2{
     color: aliceblue;
     font-size: 24px;
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.forming > p {
+    color: aliceblue;
+    font-size: 18px;
 }
