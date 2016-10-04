@@ -131,11 +131,15 @@ label{
     font-size: 15px;
 
 }
-#bckgrndimg{
+.bckgrnd{
      position: relative;
    opacity: 0.65;
    background-attachment: fixed;
    background-position: center;
    background-repeat: no-repeat;
    background-size: cover;
+}
+.bgimage1 {
+   background-image: url(../images/backgroundcar.jpg);
+   height: 30vh;
 }
