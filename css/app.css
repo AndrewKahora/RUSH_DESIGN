@@ -131,6 +131,11 @@ label{
     font-size: 15px;
 
 }
+i{
+    text-align: center;
+    word-spacing: 23px;
+    margin-left: 23px;
+}
 /*
 .bckgrnd{
      position: relative;
